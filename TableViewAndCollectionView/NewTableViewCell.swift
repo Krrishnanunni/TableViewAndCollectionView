@@ -13,10 +13,11 @@ class NewTableViewCell: UITableViewCell {
     @IBOutlet weak var imgview: UIImageView!
     override func awakeFromNib() {
         super.awakeFromNib()
-        // Initialization code
+               // Initialization code
         
-       
+      
     }
+   
 
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
